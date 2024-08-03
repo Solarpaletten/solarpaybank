@@ -5328,37 +5328,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wgcu4\\.nuget\\packages\\": {}
+    "/Users/asset/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\Freelancing\\SolarPay\\Business\\Business.csproj",
+      "projectUniqueName": "/Users/asset/Documents/solarpay/Solar-Pay/Business/Business.csproj",
       "projectName": "Business",
-      "projectPath": "D:\\Development\\Freelancing\\SolarPay\\Business\\Business.csproj",
-      "packagesPath": "C:\\Users\\wgcu4\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\Freelancing\\SolarPay\\Business\\obj\\",
+      "projectPath": "/Users/asset/Documents/solarpay/Solar-Pay/Business/Business.csproj",
+      "packagesPath": "/Users/asset/.nuget/packages/",
+      "outputPath": "/Users/asset/Documents/solarpay/Solar-Pay/Business/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\wgcu4\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/asset/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Development\\Freelancing\\SolarPay\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\Development\\Freelancing\\SolarPay\\DataAccess\\DataAccess.csproj"
+            "/Users/asset/Documents/solarpay/Solar-Pay/Data/Data.csproj": {
+              "projectPath": "/Users/asset/Documents/solarpay/Solar-Pay/Data/Data.csproj"
             },
-            "D:\\Development\\Freelancing\\SolarPay\\Data\\Data.csproj": {
-              "projectPath": "D:\\Development\\Freelancing\\SolarPay\\Data\\Data.csproj"
+            "/Users/asset/Documents/solarpay/Solar-Pay/DataAccess/DataAccess.csproj": {
+              "projectPath": "/Users/asset/Documents/solarpay/Solar-Pay/DataAccess/DataAccess.csproj"
             }
           }
         }
@@ -5407,7 +5405,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
@@ -5416,7 +5414,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Microsoft.ReportingServices.ReportViewerControl.WebForms 150.1652.0 depends on Microsoft.SqlServer.Types (>= 14.0.0) but Microsoft.SqlServer.Types 14.0.0 was not found. An approximate best match of Microsoft.SqlServer.Types 14.0.314.76 was resolved.",
+      "message": "Microsoft.ReportingServices.ReportViewerControl.WebForms 150.1652.0 зависит от Microsoft.SqlServer.Types (>= 14.0.0), но Microsoft.SqlServer.Types 14.0.0 не найден. Использовано наилучшее приближенное соответствие Microsoft.SqlServer.Types 14.0.314.76.",
       "libraryId": "Microsoft.SqlServer.Types",
       "targetGraphs": [
         "net8.0"
@@ -5426,7 +5424,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.ReportingServices.ReportViewerControl.WebForms 150.1652.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "message": "Пакет \"Microsoft.ReportingServices.ReportViewerControl.WebForms 150.1652.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net8.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
       "libraryId": "Microsoft.ReportingServices.ReportViewerControl.WebForms",
       "targetGraphs": [
         "net8.0"
@@ -5436,7 +5434,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.SqlServer.Types 14.0.314.76' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "message": "Пакет \"Microsoft.SqlServer.Types 14.0.314.76\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net8.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
       "libraryId": "Microsoft.SqlServer.Types",
       "targetGraphs": [
         "net8.0"

@@ -1,38 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\Freelancing\\SolarPay\\Business\\Business.csproj": {}
+    "/Users/asset/Documents/solarpay/Solar-Pay/Business/Business.csproj": {}
   },
   "projects": {
-    "D:\\Development\\Freelancing\\SolarPay\\Business\\Business.csproj": {
+    "/Users/asset/Documents/solarpay/Solar-Pay/Business/Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\Freelancing\\SolarPay\\Business\\Business.csproj",
+        "projectUniqueName": "/Users/asset/Documents/solarpay/Solar-Pay/Business/Business.csproj",
         "projectName": "Business",
-        "projectPath": "D:\\Development\\Freelancing\\SolarPay\\Business\\Business.csproj",
-        "packagesPath": "C:\\Users\\wgcu4\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\Freelancing\\SolarPay\\Business\\obj\\",
+        "projectPath": "/Users/asset/Documents/solarpay/Solar-Pay/Business/Business.csproj",
+        "packagesPath": "/Users/asset/.nuget/packages/",
+        "outputPath": "/Users/asset/Documents/solarpay/Solar-Pay/Business/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\wgcu4\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/asset/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Development\\Freelancing\\SolarPay\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\Development\\Freelancing\\SolarPay\\DataAccess\\DataAccess.csproj"
+              "/Users/asset/Documents/solarpay/Solar-Pay/Data/Data.csproj": {
+                "projectPath": "/Users/asset/Documents/solarpay/Solar-Pay/Data/Data.csproj"
               },
-              "D:\\Development\\Freelancing\\SolarPay\\Data\\Data.csproj": {
-                "projectPath": "D:\\Development\\Freelancing\\SolarPay\\Data\\Data.csproj"
+              "/Users/asset/Documents/solarpay/Solar-Pay/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/asset/Documents/solarpay/Solar-Pay/DataAccess/DataAccess.csproj"
               }
             }
           }
@@ -81,92 +79,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Development\\Freelancing\\SolarPay\\DataAccess\\DataAccess.csproj": {
+    "/Users/asset/Documents/solarpay/Solar-Pay/Data/Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\Freelancing\\SolarPay\\DataAccess\\DataAccess.csproj",
-        "projectName": "DataAccess",
-        "projectPath": "D:\\Development\\Freelancing\\SolarPay\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\wgcu4\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\Freelancing\\SolarPay\\DataAccess\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\wgcu4\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "D:\\Development\\Freelancing\\SolarPay\\Data\\Data.csproj": {
-                "projectPath": "D:\\Development\\Freelancing\\SolarPay\\Data\\Data.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Development\\Freelancing\\SolarPay\\Data\\Data.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Development\\Freelancing\\SolarPay\\Data\\Data.csproj",
+        "projectUniqueName": "/Users/asset/Documents/solarpay/Solar-Pay/Data/Data.csproj",
         "projectName": "Data",
-        "projectPath": "D:\\Development\\Freelancing\\SolarPay\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\wgcu4\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\Freelancing\\SolarPay\\Data\\obj\\",
+        "projectPath": "/Users/asset/Documents/solarpay/Solar-Pay/Data/Data.csproj",
+        "packagesPath": "/Users/asset/.nuget/packages/",
+        "outputPath": "/Users/asset/Documents/solarpay/Solar-Pay/Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\wgcu4\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/asset/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -239,7 +171,69 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/asset/Documents/solarpay/Solar-Pay/DataAccess/DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asset/Documents/solarpay/Solar-Pay/DataAccess/DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "/Users/asset/Documents/solarpay/Solar-Pay/DataAccess/DataAccess.csproj",
+        "packagesPath": "/Users/asset/.nuget/packages/",
+        "outputPath": "/Users/asset/Documents/solarpay/Solar-Pay/DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asset/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/asset/Documents/solarpay/Solar-Pay/Data/Data.csproj": {
+                "projectPath": "/Users/asset/Documents/solarpay/Solar-Pay/Data/Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

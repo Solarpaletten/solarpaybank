@@ -3011,34 +3011,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wgcu4\\.nuget\\packages\\": {}
+    "/Users/asset/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\Freelancing\\SolarPay\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "/Users/asset/Documents/solarpay/Solar-Pay/DataAccess/DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "D:\\Development\\Freelancing\\SolarPay\\DataAccess\\DataAccess.csproj",
-      "packagesPath": "C:\\Users\\wgcu4\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\Freelancing\\SolarPay\\DataAccess\\obj\\",
+      "projectPath": "/Users/asset/Documents/solarpay/Solar-Pay/DataAccess/DataAccess.csproj",
+      "packagesPath": "/Users/asset/.nuget/packages/",
+      "outputPath": "/Users/asset/Documents/solarpay/Solar-Pay/DataAccess/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\wgcu4\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/asset/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Development\\Freelancing\\SolarPay\\Data\\Data.csproj": {
-              "projectPath": "D:\\Development\\Freelancing\\SolarPay\\Data\\Data.csproj"
+            "/Users/asset/Documents/solarpay/Solar-Pay/Data/Data.csproj": {
+              "projectPath": "/Users/asset/Documents/solarpay/Solar-Pay/Data/Data.csproj"
             }
           }
         }
@@ -3073,7 +3071,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
