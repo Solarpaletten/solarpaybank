@@ -4,8 +4,8 @@
   "description": "Description of your project",
   "main": "index.js",
   "scripts": {
-    "start": "ng serve --host 0.0.0.0 --port $PORT",
-    "build": "ng build --prod",
+    "start": "node node_modules/@angular/cli/bin/ng serve --host 0.0.0.0 --port $PORT",
+    "build": "node node_modules/@angular/cli/bin/ng build --prod",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
