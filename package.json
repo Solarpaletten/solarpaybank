@@ -1,19 +1,5 @@
 {
-  "name": "your-project-name",
-  "version": "1.0.0",
-  "description": "Description of your project",
-  "main": "index.js",
-  "scripts": {
-    "start": "node node_modules/@angular/cli/bin/ng serve --host 0.0.0.0 --port $PORT",
-    "build": "node node_modules/@angular/cli/bin/ng build --prod",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "dependencies": {
-    "express": "^4.17.1",
-    "@angular/cli": "^17.3.8",
-    "@angular/core": "^12.0.0"
-  },
-  "devDependencies": {},
-  "author": "Your Name",
-  "license": "ISC"
+    "@angular/cli": "^17.3.8"
+  }
 }
